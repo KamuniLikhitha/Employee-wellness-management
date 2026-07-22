@@ -131,37 +131,12 @@ Sad
 
 ---
 
-## Screenshots
-
-The Screenshots folder contains images demonstrating:
-
-* Login Page
-* Home Page
-* File Upload
-* Language Detection
-* NLP Preprocessing Outputs
-* Sentiment Analysis
-* Emotion Analysis
-* Processing Statistics
-
----
-
 ## Observations
 
 * The system successfully preprocesses multilingual text.
 * Emoji extraction improves emotion understanding.
 * Noise removal significantly improves text quality.
 * The preprocessing pipeline serves as a foundation for downstream sentiment and emotion classification models.
-
----
-
-## Folder Structure
-
-```text
-Milestone2/
-├── NLP_Preprocessing_Pipeline.ipynb
-├── README.md
-└── Screenshots/
 ```
 
 ## Conclusion
